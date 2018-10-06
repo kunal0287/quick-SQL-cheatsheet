@@ -150,11 +150,3 @@ Pull requests are welcome!
 
 ### **SELECT**: drop a view
 * `DROP VIEW v1`;
-
-
-
-
-
-
-
-
